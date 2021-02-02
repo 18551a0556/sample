@@ -22,11 +22,11 @@ When compared with C++, Java codes are generally more maintainable because Java 
 | ---- | ---------- | ------ |
 |trilokya| 519 | cse |
 
-#Unordered List
+# Unordered List
     -1
     -2
     -3
-#ordered list
+# Ordered list
     a.1
     b.2
     c.3
